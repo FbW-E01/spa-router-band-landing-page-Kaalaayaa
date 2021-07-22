@@ -1,0 +1,23 @@
+ul.nav {
+  padding: 0;
+  text-align: center;
+  font-family: "kaeruka";
+  font-size: 2em;
+}
+.nav li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 2px 5px;
+}
+.nav a {
+  color: #de9542;
+  text-decoration: none;
+  border-radius: 3px;
+  min-width: 80px;
+  display: inline-block;
+  padding: 10px;
+}
+.nav a.active {
+  color: darkmagenta;
+  background: #de9542;
+}

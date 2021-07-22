@@ -1,0 +1,6 @@
+@font-face {
+font-family: "kaeruka";
+src: local("kaeruka"),
+ url("./kaerukaeru-master/fonts/webfonts/kaerukaeru-Regular.woff") format("woff");
+font-weight: bold;
+}

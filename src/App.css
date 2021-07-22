@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+}
+.page {
+  background-color: #86add6;
+  height: 100vh;
+  width: 100vw;
+}
+
+h1 {
+  text-align: center;
+  font-family: "kaeruka";
+  font-size: 5em;
+  margin-top: 0;
+  padding-top: 50px;
+}
+
+h1 a {
+  text-decoration: none;
+  color: darkmagenta;
+}
+
+h2 {
+  font-family: "kaeruka";
+  color: darkmagenta;
+}
+
+p {
+    font-family: "kaeruka";
+    font-size: 2em;
+    color: darkmagenta;
+}
+
+.home {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  margin-top: px;
+}
+
+.vocals {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  margin-top: px;
+}
+
+.guitar {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  margin-top: px;
+}
+
+.keyboard {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.bass {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  margin-top: px;
+}
+
+.drums {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  margin-top: px;
+}
+
+.error {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  color: #de9542;
+  text-decoration: none;
+  border-radius: 3px;
+  min-width: 80px;
+  display: inline-block;
+  padding: 10px;
+  font-family: "kaeruka";
+  font-size: 1.2em;
+  text-align: center;
+}
+
+button.active {
+  
+  color: darkmagenta;
+  background-color: #de9542;
+}
